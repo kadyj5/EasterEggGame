@@ -19,6 +19,15 @@ body {
   position: relative;
 }
 
+#life {
+  position: absolute;
+  right: 0;
+
+  display: flex;
+}
+
+
+
 .egg {
   height: 5vh;
   position: absolute;
